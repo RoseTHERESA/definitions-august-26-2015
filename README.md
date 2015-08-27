@@ -6,7 +6,8 @@ for homework
 Together they govern how data is addressed, found, and transmitted on the web. These two protocols also represent two of the several layers that comprise the web. At the internet layer, DNS (Domain Name System) servers match IP addresses (made up of sets of numbers) with domain names. IP thus governs addressing and finding websites. TCP governs how packets of data are transferred to and from websites, once found.  
 
 ###2. XHR  
-Ah... the XHR object. This I do not yet grasp. It is the crux of the matter, however, when it comes to AJAX...  
+#####XMLHttpRequest Object  
+Ah... the XHR object. This I do not yet grasp. It is the crux of the matter, however, when it comes to AJAX... It is the object that makes Http requests possible. All the AJAX methods are using XHR under the hood.  
 
 ###3. API  
 #####Application Programming Interface
