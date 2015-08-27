@@ -2,8 +2,8 @@
 for homework
 
 ###1. TCP/IP  
-#####Transmission Control Protocol  /  Interet Protocol  
-Together they govern how data is found and transmitted on the web. They also represent two of the several layers that comprise the web. At the internet layer, DNS servers match IP addresses (made up of sets of numbers) with domain names. IP thus governs address and finding websites. Once found, TCP governs how packets of data are transferred to and from websites.  
+#####Transmission Control Protocol  /  Internet Protocol  
+Together they govern how data is addressed, found, and transmitted on the web. These two protocols also represent two of the several layers that comprise the web. At the internet layer, DNS servers match IP addresses (made up of sets of numbers) with domain names. IP thus governs address and finding websites. Once found, TCP governs how packets of data are transferred to and from websites.  
 
 ###2. XHR  
 Ah... the XHR object. This I do not yet grasp. It is the crux of the matter, however, when it comes to AJAX...  
@@ -14,7 +14,7 @@ APIs allow computers to talk to each other. Via javascript, data and/or methods 
 
 ###4. HTTP  
 #####HyperText Transfer Protocol  
-HTTP is a specific kind of TCP that governs the request response cycle -- the communication between clients and servers. As such, it 
+HTTP is a specific kind of TCP that governs the request response cycle of communication between clients and servers. This takes place at the Application Level of the web. This protocol requires that all data be transmitted as text or as strings. Data must be "stringified" for transfer and then often parsed at the receiving end.
 
 ###5. Protocol  
 Very generally, a protocol is the way a certain something should be done. On the web, protocols govern how communications takes place between computers.  
