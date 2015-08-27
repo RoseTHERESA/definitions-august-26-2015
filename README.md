@@ -14,11 +14,14 @@ APIs allow computers to talk to each other. Via javascript, data and/or methods 
 
 ###4. HTTP  
 #####HyperText Transfer Protocol  
+HTTP is a specific kind of TCP that governs the request response cycle -- the communication between clients and servers. As such, it 
 
 ###5. Protocol  
+Very generally, a protocol is the way a certain something should be done. On the web, protocols govern how communications takes place between computers.  
 
 ###6. JSON  
 #####JavaScript Object Notation  
+Created by Douglas Crockford, JSON is a javascript-friendly text-based format used to communicate between clients and servers.
 
 ###7. Request  
 
@@ -30,6 +33,6 @@ APIs allow computers to talk to each other. Via javascript, data and/or methods 
 
 ###11. AJAX 
 #####Asynchronous Javascript And XML  
-Makes it possible to GET data from a server without refreshing the page. Being asynchronous, all requests include callbacks. In other words, AJAX methods are all higher order functions.
+Makes it possible to GET data from a server without refreshing the page. Being asynchronous, AJAX requests include callbacks. In other words, AJAX methods are all higher order functions.
 
 
