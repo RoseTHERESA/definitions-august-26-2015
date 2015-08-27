@@ -30,6 +30,7 @@ Created by Douglas Crockford, JSON is a javascript-friendly text-based format us
 ###9. Client  
 
 ###10. Server  
+A machine (either real or virtual) and the software that makes it possible to serve data or information. HTTP servers serve content or files. Other sorts of servers include mail servers and database servers.
 
 ###11. AJAX 
 #####Asynchronous Javascript And XML  
