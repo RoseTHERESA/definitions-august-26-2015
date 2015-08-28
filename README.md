@@ -7,7 +7,7 @@ Together they govern how data is addressed, found, and transmitted on the web. T
 
 ###2. XHR  
 #####XMLHttpRequest Object  
-Ah... the XHR object. This I do not yet grasp. It is the crux of the matter, however, when it comes to AJAX... It is the object that makes Http requests possible. All the AJAX methods are using XHR under the hood.  
+Ah... the XHR object. This I do not yet grasp. It is the crux of the matter, however, when it comes to AJAX... It is the object that makes Http requests possible. All the AJAX methods are using XHR under the hood. Representation of the ActiveXObject, implemented to make the Request Response Cycle possible without the need to refresh the page.  
 
 ###3. API  
 #####Application Programming Interface
